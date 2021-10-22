@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasVCorrea
+- 👋 Hi, I’m @LucasVCorrea 🖥️
 - 📌 Buenos Aires, AR :argentina:
 - 📚 Estudiante de segundo año de la Universidad de Buenos Aires
 - 📫 How to reach me ... @luucasscorrea  on Tw
