@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasVCorrea
 - 📌 Buenos Aires, AR :argentina:
-- 📚 I’m currently a second year student at  Engineering University of Buenos Aires
+- 📚 Estudiante de segundo año de la Universidad de Buenos Aires
 - 📫 How to reach me ... @luucasscorrea  on Tw
 
 <!---
