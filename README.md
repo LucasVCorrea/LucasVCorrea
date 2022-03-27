@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D72C&lines=%3CPlug+the+keyboard+and+grab+a+coffee\%3Cl)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=0064FF&lines=%3CPlug+the+keyboard+and+grab+a+coffee%3Cl)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=0064FF&lines=%3CPlug+the+keyboard+and+grab+a+coffee%3Cl)](https://git.io/typing-svg) \n
 
 - 👋 Hi, I’m @LucasVCorrea 🖥️
 - 📌 Buenos Aires, AR :argentina:
