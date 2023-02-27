@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @LucasVCorrea 🖥️
 - 📌 Buenos Aires, AR :argentina:
-- 📚 Estudiante de segundo año de la Universidad de Buenos Aires
+- 📚 Estudiante de la Universidad de Buenos Aires
 - 📫 How to reach me ... @luucasscorrea  on Tw
 - 🔋  Languages learned so far Python🐍 - C++ 
 <!---
