@@ -5,7 +5,7 @@
 - 📌 Buenos Aires, AR :argentina:
 - 📚 Estudiante de la Universidad de Buenos Aires
 - 📫 How to reach me ... @luucasscorrea  on Tw
-- 🔋  Languages learned so far Python🐍 - C++ 
+- 🔋  Languages learned so far Python🐍 - C++ - Java
 <!---
 LucasVCorrea/LucasVCorrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
